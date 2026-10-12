@@ -29,33 +29,3 @@ https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="02. CCTV",Malioboro 24 Simpang Reksobayan - JogJa
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
-
-# --- KATEGORI: TV LOKAL & NASIONAL ---
-#EXTINF:-1 group-title="03. TV Lokal & Nasional" tvg-logo="https://media.tenor.com/WoQZgPVVZHQAAAAM/rcti-rcti29.gif",RCTI HD
-https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="03. TV Lokal & Nasional",SCTV HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-#EXTINF:-1 group-title="03. TV Lokal & Nasional" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybzViNzNhMjV5dWJycmw5aGZhcGtydjN3ODhzb2V5cTV4eGYxN3VoeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fGI87nRZ42IncYkGP5/giphy.gif",INDOSIAR HD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-#EXTINF:-1 group-title="03. TV Lokal & Nasional" tvg-logo="https://raw.githubusercontent.com/apistext/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV HD
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1 group-title="03. TV Lokal & Nasional" tvg-logo="https://raw.githubusercontent.com/apistext/project/refs/heads/main/logo/image_ch_antv.png",ANTV HD
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZycUM_rdoIOMzDhaj7oVfFjbcbwHYM3eDPQ&s" group-title="03. TV Lokal & Nasional",TRANSTV HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="03. TV Lokal & Nasional",TRANS7 HD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-#EXTINF:-1 group-title="03. TV Lokal & Nasional" tvg-logo="https://raw.githubusercontent.com/apistext/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV HD
-https://allcutv.rctiplus.id/gtv2023.m3u8
-
-# --- KATEGORI: BERITA & RELIGI ---
-#EXTINF:-1 group-title="04. Berita & Religi" tvg-logo="https://raw.githubusercontent.com/apistext/project/refs/heads/main/logo/image_ch_tvone.png",TVONE HD
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="04. Berita & Religi",Metro TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="04. Berita & Religi" tvg-logo="https://raw.githubusercontent.com/apistext/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
-https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8?app_type=web&userid=lite&chname=Kompas_TV
-#EXTINF:-1 group-title="04. Berita & Religi",=== INDIHOME TV ===
-https://raw.githubusercontent.com/apistext/project/refs/heads/main/IndihomeTV.m3u
-#EXTINF:-1 group-title="04. Berita & Religi",=== TV NASIONAL & RELIGI ===
-https://pastebin.support.one/view/raw/53bd4fb6
