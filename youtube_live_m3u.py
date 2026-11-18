@@ -18,7 +18,7 @@ def get_live_stream_url(youtube_url):
         stream_urls = result.stdout.strip().splitlines()
         return stream_urls[0] if stream_urls else None
     except subprocess.CalledProcessError:
-        print(f"Gagal mengambil stream untuk: {youtube_url} (Kemungkinan sedang tidak live)")
+        print(f"Gagal mengambil stream untuk: {youtube_url} (Pastikan video sedang live)")
         return None
 
 def generate_m3u():
